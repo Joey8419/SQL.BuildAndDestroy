@@ -1,0 +1,2 @@
+ALTER FROM Users
+DROP COLUMN Birthday
